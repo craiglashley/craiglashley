@@ -11,7 +11,7 @@
 
 <h2>  📓   Cybersecurity Projects</h2>
 
-- [Getting Started With Burp Suite](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Getting Started With Burp Suite](https://nosy-pamphlet-17d.notion.site/Getting-Started-With-Burp-Suite-67e551c4d6e846fd809f3d6396240dfd)
 - [Python Password Strength Checker](https://nosy-pamphlet-17d.notion.site/Python-Password-Strength-Checker-3ccc0c3acc4e4b9d8251ad6aaeab980c)
 - [Use Wireshark To Analyze Network Packets](https://nosy-pamphlet-17d.notion.site/Use-Wireshark-To-Analyze-Network-Packets-720916dda6904696a7af1764a49e823a)
 

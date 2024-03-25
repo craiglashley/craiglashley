@@ -1,32 +1,23 @@
-<h1>Hi, I'm Craig! <br/><a href="https://github.com/joshmadakor1">Early Career Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/craig-l-6298a6a4/">Security+ Certified
-</a> <!---<a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>--->
+<h1>Hi, I'm Craig! <br/><a href="https://github.com/joshmadakor1">Early Career Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/craig-l-6298a6a4/">Security+ Certified</a>
 
-<h2>  🎓    Certifications:</h2>
+<h2> 🎓  Certifications:</h2>
 
-- <b>_CompTIA Security+ Certifcation_</b><i>
+- <b>CompTIA Security+ Certification</b>
   - <b>Credential ID: </b>
-    - [**Verify Credential Here**](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>
-- <b>AWS Cloud Practitioner</b>
-    - [**Veiw Credential Here**](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>
-
-<h2>👨‍💻 Cybersecurity Projects:</h2>
-
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-  
-<h2> ✏️   Cybersecurity Education:</h2>
-
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+    - [Verify Certification Here](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>AWS Certified Cloud Practitioner</b>
+  - [View Certification Here](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
-<h2>👨‍💻 Tools Learneds:</h2>
+<h2>  📓   Cybersecurity Projects</h2>
 
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
-  
+<h2>✏️  Cybersecurity Education</h2>
 
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

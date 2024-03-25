@@ -2,10 +2,11 @@
 
 <h2> 🥇   Certifications:</h2>
 
-- <b>CompTIA Security+ Certification: PCT3Y3JZ1J441W53</b>
-  - [Verify Certification Here](https://www.certmetrics.com/comptia/public/verification.aspx/)
 - <b>AWS Certified Cloud Practitioner</b>
   - [View Certification Here](https://www.credly.com/badges/90b59e99-aff9-4684-97fa-837281db3e52?source=linked_in_profile)
+- <b>CompTIA Security+ Certification: PCT3Y3JZ1J441W53</b>
+  - [Verify Certification Here](https://www.certmetrics.com/comptia/public/verification.aspx/)
+
 
 
 <h2>  📓   Cybersecurity Projects</h2>

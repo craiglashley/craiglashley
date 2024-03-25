@@ -3,18 +3,18 @@
 <h2> 🥇   Certifications:</h2>
 
 - <b>CompTIA Security+ Certification</b>
-  - <b>Credential ID: </b>
-    - [Verify Certification Here](https://github.com/joshmadakor1/Algorithms-Practice)
+  - <b>Credential ID: PCT3Y3JZ1J441W53</b>
+    - [Verify Certification Here](https://www.certmetrics.com/comptia/public/verification.aspx/)
 - <b>AWS Certified Cloud Practitioner</b>
-  - [View Certification Here](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [View Certification Here](https://www.credly.com/badges/90b59e99-aff9-4684-97fa-837281db3e52?source=linked_in_profile)
 
 
 <h2>  📓   Cybersecurity Projects</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Getting Started With Burp Suite](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Python Password Strength Checker](https://nosy-pamphlet-17d.notion.site/Python-Password-Strength-Checker-3ccc0c3acc4e4b9d8251ad6aaeab980c)
+- [Use Wireshark To Analyze Network Packets](https://nosy-pamphlet-17d.notion.site/Use-Wireshark-To-Analyze-Network-Packets-720916dda6904696a7af1764a49e823a)
 
 <h2>✏️  Cybersecurity Education</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Cybersecurity Completed Training](https://nosy-pamphlet-17d.notion.site/Craig-Lashley-s-Cybersecurity-Portfolio-80458ca89f484f16a084ac49410a4710#:~:text=Cybersecurity%20Education)

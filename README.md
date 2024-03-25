@@ -1,13 +1,15 @@
 <h1>Hi, I'm Craig! <br/><a href="https://github.com/joshmadakor1">Early Career Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/craig-l-6298a6a4/">Security+ Certified
 </a> <!---<a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>--->
 
-<h2>  🎓    <i>Certifications:</i> </h2>
+<h2>  🎓    Certifications:</h2>
 
-- <b><i>CompTIA Security+ Certifcation</b>
+- <b>CompTIA Security+ Certifcation</b>
   - <b>Credential ID: </b>
-    - [Verify Credential Here](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) </i> <b><i>
-- <b><i>CompTIA Security+ Certifcation</b>
-    - [View Credential Here](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) </i> <b><i>
+    - [Verify Credential Here](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>
+- <b>AWS Cloud Practitioner</b>
+  - <b>Credential ID: </b>
+    - [Veiw Credential Here](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>
+
 
 <h2> ✏️   Cybersecurity Education:</h2>
 

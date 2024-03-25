@@ -1,4 +1,4 @@
-<h1>Hi, I'm Craig! <br/><a href="https://github.com/craiglashley">Early Career Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/craig-l-6298a6a4/">Security+ Certified</a>
+<h1>Hi, I'm Craig! <br/><a href="https://github.com/craiglashley">Early Career Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/craig-l-6298a6a4/">Security+ Certified</a></h1>
 
 <h2> 🥇   Certifications:</h2>
 
@@ -18,3 +18,9 @@
 <h2>✏️  Cybersecurity Education</h2>
 
   - [Cybersecurity Completed Training](https://nosy-pamphlet-17d.notion.site/Craig-Lashley-s-Cybersecurity-Portfolio-80458ca89f484f16a084ac49410a4710#:~:text=Cybersecurity%20Education)
+  - [Microsoft Training Transcript](https://learn.microsoft.com/en-us/users/craiglashley-5306/transcript/dwg6qi5486eq539)
+  - [University of South Florida MS, Cybersecurity Portfolio (2018)](https://learn.microsoft.com/en-us/users/craiglashley-5306/transcript/dwg6qi5486eq539](https://usflearn.instructure.com/eportfolios/33297?verifier=c5F8WSLrV22QlExNKYGTiDVekwv9cORC5aelqOti))
+
+<h2> 📱   Connect With Me</h2>
+
+  - [LinkedIn Profile](https://www.linkedin.com/in/craig-l-6298a6a4/)

@@ -7,7 +7,6 @@
   - <b>Credential ID: </b>
     - [**Verify Credential Here**](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>
 - <b>AWS Cloud Practitioner</b>
-  - <b>Credential ID: </b>
     - [**Veiw Credential Here**](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>

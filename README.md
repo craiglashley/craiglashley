@@ -3,21 +3,25 @@
 
 <h2>  🎓    Certifications:</h2>
 
-- <b>CompTIA Security+ Certifcation</b>
+- <b>_CompTIA Security+ Certifcation_</b><i>
   - <b>Credential ID: </b>
-    - [Verify Credential Here](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>
+    - [**Verify Credential Here**](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>
 - <b>AWS Cloud Practitioner</b>
   - <b>Credential ID: </b>
-    - [Veiw Credential Here](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>
+    - [**Veiw Credential Here**](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>
 
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  
 <h2> ✏️   Cybersecurity Education:</h2>
 
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Tools Learneds:</h2>
 
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>

@@ -19,7 +19,7 @@
 <h2>✏️  Cybersecurity Education</h2>
 
   - [Completed Cybersecurity Training](https://github.com/craiglashley/CompletedCybersecurityTraining)
-  - [Master of Science, Cybersecurity Diploma](https://github.com/craiglashley/MasterofScienceDegree)
+  - [Master of Science: Cybersecurity Diploma](https://github.com/craiglashley/MasterofScienceDegree)
   - [Microsoft Training Transcript](https://learn.microsoft.com/en-us/users/craiglashley-5306/transcript/dwg6qi5486eq539)
   - [TryHackMe Achievements](https://github.com/craiglashley/TryHackMeAchievements)
   - [University of South Florida MS, Cybersecurity Portfolio (2018)](https://usflearn.instructure.com/eportfolios/33297?verifier=c5F8WSLrV22QlExNKYGTiDVekwv9cORC5aelqOti)

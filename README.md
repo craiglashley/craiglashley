@@ -14,7 +14,7 @@
 
 - [Getting Started With Burp Suite](https://github.com/craiglashley/GettingStartedWithBurpSuite)
 - [Python Password Strength Checker](https://github.com/craiglashley/PythonPasswordStrengthChecker)
-- [Use Wireshark To Analyze Network Packets](https://nosy-pamphlet-17d.notion.site/Use-Wireshark-To-Analyze-Network-Packets-720916dda6904696a7af1764a49e823a)
+- [Use Wireshark To Analyze Network Packets](https://github.com/craiglashley/UseWiresharkToAnalyzeNetworkPackets)
 
 <h2>✏️  Cybersecurity Education</h2>
 

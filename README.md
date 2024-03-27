@@ -7,8 +7,8 @@
 - <b>CompTIA Security+ Certification: </b>
   - <b>Certification ID: PCT3Y3JZ1J441W53</b>
   - [Verify Certification Here](https://www.certmetrics.com/comptia/public/verification.aspx/)
-
-
+- <b>SC-900: Microsoft Certified: Security, Compliance, and Identity Fundamentals: </b>
+  - <b>Microsoft certification ID: 996402486</b>
 
 <h2>  📓   Cybersecurity Projects</h2>
 

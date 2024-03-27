@@ -8,7 +8,7 @@
   - <b>Certification ID: PCT3Y3JZ1J441W53</b>
   - [Verify Certification Here](https://www.certmetrics.com/comptia/public/verification.aspx/)
 - <b>SC-900: Microsoft Certified: Security, Compliance, and Identity Fundamentals: </b>
-  - <b>Microsoft certification ID: 996402486</b>
+  - [Verify Certification Here](https://learn.microsoft.com/api/credentials/share/en-us/CraigL-6546/DDC978CA88EC5FE1?sharingId=4DD4547134CBA148)
 
 <h2>  📓   Cybersecurity Projects</h2>
 

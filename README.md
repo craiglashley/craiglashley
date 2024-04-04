@@ -20,6 +20,7 @@
 <h2>✏️  Cybersecurity Education</h2>
 
   - [Completed Cybersecurity Training](https://github.com/craiglashley/CompletedCybersecurityTraining)
+  - [LinkedIn Learning](https://github.com/craiglashley/LinkedInLearning)
   - [Master of Science: Cybersecurity Diploma](https://github.com/craiglashley/MasterofScienceDegree)
   - [Microsoft Training Transcript](https://learn.microsoft.com/en-us/users/craiglashley-5306/transcript/dwg6qi5486eq539)
   - [TryHackMe Achievements](https://github.com/craiglashley/TryHackMeAchievements)

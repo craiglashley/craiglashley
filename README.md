@@ -1,4 +1,4 @@
-<h1>Hi, I'm Craig! <br/><a href="https://github.com/craiglashley">IT & Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/craig-l-6298a6a4/">Security+ Certified</a></h1>
+<h1>Hi, I'm Craig! <br/><a href="https://github.com/craiglashley">Cybersecurity & IT Professional</a>, <a href="https://www.linkedin.com/in/craig-l-6298a6a4/">Security+ Certified</a></h1>
 
 <h2> 🥇   Certifications:</h2>
 

@@ -13,6 +13,7 @@
 <h2>  📓   Cybersecurity Projects</h2>
 
 - [Azure Sentinel Honeypot With Attack Map](https://github.com/craiglashley/AzureSentinelAttackMap)
+- [Basic Python Malicious URL Checker](https://github.com/craiglashley/BasicPythonMaliciousURLChecker)
 - [Getting Started With Burp Suite](https://github.com/craiglashley/GettingStartedWithBurpSuite)
 - [Python Password Strength Checker](https://github.com/craiglashley/PythonPasswordStrengthChecker)
 - [Use Wireshark To Analyze Network Packets](https://github.com/craiglashley/UseWiresharkToAnalyzeNetworkPackets)

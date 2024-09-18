@@ -16,6 +16,7 @@
 - [Basic Python Malicious URL Checker](https://github.com/craiglashley/BasicPythonMaliciousURLChecker)
 - [Getting Started With Burp Suite](https://github.com/craiglashley/GettingStartedWithBurpSuite)
 - [Python Password Strength Checker](https://github.com/craiglashley/PythonPasswordStrengthChecker)
+- [Splunk Log Analysis On Kali Linux](https://github.com/craiglashley/SplunkLogAnalysisOnKaliLinux/blob/main/README.md)
 - [Use Wireshark To Analyze Network Packets](https://github.com/craiglashley/UseWiresharkToAnalyzeNetworkPackets)
 
 <h2>✏️  Cybersecurity Education</h2>

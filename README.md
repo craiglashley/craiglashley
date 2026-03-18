@@ -21,6 +21,7 @@
 
 <h2>✏️  Cybersecurity Education</h2>
 
+  - [AWS Training](https://github.com/craiglashley/AWS-Training)
   - [CEU Credits and Certificates](https://github.com/craiglashley/CEUCreditsAndCertificates)
   - [Completed Cybersecurity Training](https://github.com/craiglashley/CompletedCybersecurityTraining)
   - [LinkedIn Learning](https://github.com/craiglashley/LinkedInLearning)
